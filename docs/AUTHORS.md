@@ -1,5 +1,5 @@
 # Authors
 
-See the github [QPZig Contributors][contributors] list.
+See the github [qpzig contributors list][contributors].
 
 [contributors]: https://github.com/massivelivefun/qpzig/graphs/contributors
